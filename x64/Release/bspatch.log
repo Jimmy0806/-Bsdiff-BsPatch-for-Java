@@ -1,0 +1,21 @@
+﻿  bsdiff.c
+E:\AS-workspace\bspatch\bsdiff.c(225,21): warning C4013: “err”未定义；假设外部返回 int
+E:\AS-workspace\bspatch\bsdiff.c(229,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AS-workspace\bspatch\bsdiff.c(248,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AS-workspace\bspatch\bsdiff.c(264,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bspatch.c
+E:\AS-workspace\bspatch\bspatch.c(77,21): warning C4013: “err”未定义；假设外部返回 int
+E:\AS-workspace\bspatch\bspatch.c(80,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AS-workspace\bspatch\bspatch.c(118,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AS-workspace\bspatch\bspatch.c(125,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AS-workspace\bspatch\bspatch.c(132,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AS-workspace\bspatch\bspatch.c(140,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AS-workspace\bspatch\bspatch.c(206,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  err.c
+  main.c
+E:\AS-workspace\bspatch\main.c(25,44): warning C4090: “函数”: 不同的“const”限定符
+E:\AS-workspace\bspatch\main.c(43,43): warning C4090: “函数”: 不同的“const”限定符
+    正在创建库 E:\AS-workspace\bspatch\x64\Release\bspatch.lib 和对象 E:\AS-workspace\bspatch\x64\Release\bspatch.exp
+  正在生成代码
+  已完成代码的生成
+  bspatch.vcxproj -> E:\AS-workspace\bspatch\x64\Release\bspatch.dll
